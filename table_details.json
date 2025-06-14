@@ -1,0 +1,28 @@
+{
+  "USERS": [
+    {
+      "column_name": "ID",
+      "data_type": "NUMBER",
+      "data_length": 22,
+      "nullable": "N"
+    },
+    {
+      "column_name": "NAME",
+      "data_type": "VARCHAR2",
+      "data_length": 100,
+      "nullable": "Y"
+    },
+    {
+      "column_name": "EMAIL",
+      "data_type": "VARCHAR2",
+      "data_length": 100,
+      "nullable": "Y"
+    },
+    {
+      "column_name": "CREATED_AT",
+      "data_type": "DATE",
+      "data_length": 7,
+      "nullable": "Y"
+    }
+  ]
+}
