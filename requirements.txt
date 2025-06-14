@@ -8,6 +8,16 @@ aiosqlite==0.21.0
 annotated-types==0.7.0
 anyio==4.9.0
 argcomplete==3.6.2
+fastapi
+uvicorn
+sqlalchemy
+cx_Oracle
+python-dotenv
+requests
+pydantic
+sentence-transformers
+faiss-cpu
+numpy
 attrs==25.3.0
 backoff==2.2.1
 beautifulsoup4==4.13.4
